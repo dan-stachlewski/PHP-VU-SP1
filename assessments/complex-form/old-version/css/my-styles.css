@@ -1,0 +1,99 @@
+
+
+body { padding-top: 50px; }
+
+@media (min-width: 768px) { 
+.container {
+    width: 750px;
+  }
+
+ body { padding-top: 40px; }
+
+}
+@media (min-width: 768px; ){
+
+}
+
+
+}
+
+@media (min-width: 992px) { 
+  .container {
+    width: 970px;
+  }
+body { padding-top: 40px; }
+
+}
+
+@media (min-width: 1200px) { 
+  .container {
+    width: 1170px;
+  }
+
+body { padding-top: 40px; }
+
+}
+
+
+.btn-church {
+  color: #fff;
+  background-color: #1A428A;
+  border-color: #1D3F86;
+}
+.btn-church:hover,
+.btn-church:focus,
+.btn-church.focus,
+.btn-church:active,
+.btn-church.active,
+.open > .dropdown-toggle.btn-church {
+  color: #fff;
+  background-color: #2F5888;
+  border-color: #1D3F86;
+}
+.btn-church:active,
+.btn-church.active,
+.open > .dropdown-toggle.btn-church {
+  background-image: none;
+}
+.btn-church.disabled,
+.btn-church[disabled],
+fieldset[disabled] .btn-church,
+.btn-church.disabled:hover,
+.btn-church[disabled]:hover,
+fieldset[disabled] .btn-church:hover,
+.btn-church.disabled:focus,
+.btn-church[disabled]:focus,
+fieldset[disabled] .btn-church:focus,
+.btn-church.disabled.focus,
+.btn-church[disabled].focus,
+fieldset[disabled] .btn-church.focus,
+.btn-church.disabled:active,
+.btn-church[disabled]:active,
+fieldset[disabled] .btn-church:active,
+.btn-church.disabled.active,
+.btn-church[disabled].active,
+fieldset[disabled] .btn-church.active {
+  background-color: #1A428A;
+  border-color: #1D3F86;
+}
+.btn-church .badge {
+  color: #1A428A;
+  background-color: #fff;
+}
+
+.jumbotron { background-color: #0073B8; }
+
+
+.navbar-inverse { background-color: #123955; }
+
+
+
+/*#footer { margin: 0px auto; width: 100%;  }*/
+
+
+#logo { float: right; height: 175px; width: 175px; }
+
+
+.well { background-color: #008EE5;  }
+
+

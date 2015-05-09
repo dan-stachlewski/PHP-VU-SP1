@@ -1,0 +1,18 @@
+Teacher: Ian Browne
+Email Adress: ian.browne@vu.edu.au
+Contact #: +61 3 9919 8711
+
+1. just learned how to use git last night
+2. next project will be tracked with Version Control via Git
+3. email zipped folder as well named:dw-505-a1-s4532350
+4. 2 folders:
+4.1 Final assessment: a1-complex-form-s4532350
+4.2 How I wanted page to look: old-version
+
+Do yo have better or preferred folder naming conventions?
+
+Copy of old version is just to show you the layout I wanted for the site but couldn't get errors to display so re-constructed the finished form old school.
+
+I have made lots of notes about what I wanted to work on in future to complete the form and also what I liked about doing this task. I hope to be able to sit down and address some of these tasks some day.
+
+I have uploaded a copy to GitHub as backup - URL: 

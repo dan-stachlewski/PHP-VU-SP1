@@ -1,0 +1,148 @@
+@import url(http://fonts.googleapis.com/css?family=Lato);
+
+/* global reset rule */
+* { margin: 0px; padding: 0px; }
+body,
+input,
+textarea {
+  font-family: helvetica;/*font: 1rem Lato, sans-serif;*/ 
+}
+body { background-color: #FFF; }
+
+nav { /*border: 1px solid #FF0000;*/ width: 100%; height: 50px; background-color: #123955; }
+header { /*border: 1px solid #FF0000;*/ background-image: url("../img/vu-banner-large1.png"); background-repeat: no-repeat; background-position: center; width: 100%; height: 250px; background-color: #0073B8; }
+footer { /*border: 1px solid #FF0000;*/ width: 100%; height: 210px; background-color: #0F75BC; background-image: url("../img/vu-footer.png"); background-repeat: no-repeat; background-position: right; }
+.container { width: 980px; margin: 0px auto; padding: 25px; background-color: #FFF; }
+
+.error { list-style-type:; color: #DE4C4D; font-weight: bold; margin: 5px; padding: 5px; }
+li { font-weight: bold; margin: 5px; padding: 5px; }
+h2 { color: #33333F; margin: 5px; padding: 2px; }
+h2>small { color: #777777; margin: 5px; padding: 2px; }
+
+h3 { color: #FFF; margin: 5px; padding: 2px; font-weight: normal; }
+h3>small { color: #000; margin: 5px; padding: 2px; font-weight: bold; }
+
+p { margin: 5px; padding: 5px; }
+
+label,
+input,
+textarea {
+  /*display: block;*/
+}
+
+
+textarea {
+  padding: 10px;
+  width: 100%;
+  box-sizing: border-box;
+  display: inline-grid;
+  /*border: 1px solid #FFFF00;*/ 
+}
+
+input {
+  padding: 10px;
+  width: 50%;
+  /*box-sizing: border-box;*/
+  display: inline-grid;
+  /*border: 1px solid #FFFF00;*/ 
+}
+
+label input,
+label textarea {
+  margin-top: 10px;
+}
+
+label {
+  margin-bottom: 5px; display: block;  width: 200px; font-weight: bold;
+}
+
+input[type=submit],
+button {
+  width: auto; color: #000; font-weight: bold;
+}
+
+input[type=file],
+button {
+  width: auto; color: blue;
+}
+
+.muted{
+  color: #AAA;
+}
+
+/* Components */
+
+.contact {
+  width: 100%;
+  max-width: 500px;
+  border-top: 1px solid #EEE;
+  border-bottom: 1px solid #EEE;
+  padding: 30px 20px;
+  box-sizing: border-box;
+}
+
+.panel {
+  border:1px solid #A30000;
+  border-radius: 5px;
+  background: #F0F0F0;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+.panel { background-color: #F5CCCC; }
+
+.legal { text-align: center; padding-top: 75px; }
+.tab { margin-left: 25px; }
+label { /*border: 1px solid #FF00FF;*/ }
+label.title, label.dob { width: 125px; display: inline-block; text-align: right;}
+label.dob { margin: 15px 0px; }
+
+label.gender { width: 140px; padding-top: 10px; margin-left: 25px;  display: inline-block; text-align: center;}
+input.gender { margin: 10px 0px;  }
+label>input.gender { width: 20px; border: 1px solid blue; }
+.gender-button { /*float: left;*/ /*border: 1px solid green;*/ display: inline-block; margin: 5px 0px 5px 5px; /*width: 200px;margin-top:-12px;*/ width: 150px;  }
+
+label.prior-learning { width: 138px; margin-left: -15px; margin-top: 8px; display: inline-block; text-align: right; }
+input.prior-learning { margin: 10px 0px; width: 50px; display: inline-block; }
+.learning-radio { float: left; width: 150px;}
+input.prior-learning-radio { width: 50px; border: 1px solid blue; margin-right:-15px; padding-right: -15px; }
+
+.container-rad { width: 960px; height: 200px; border: 1px solid green; }
+label.day, label.month, label.year { width: 50px; display: inline-block; text-align: right;}
+select.title, select.day, select.month, select.year { padding: 10px; }
+select.day, select.month, select.year { padding: 10px; margin: 0px 10px 0px 0px;  }
+
+label.family-name, label.given-name-1, label.given-name-2, label.best-number, label.best-email { width: 125px; display: inline-block; text-align: right; }
+label.supporting-docs { width: 400px; margin-left: -125px; margin-top: 15px;/*display: inline-block;*/ text-align: right;  }
+input.supporting-docs { display: inline-block; margin: 5px 0px; width: 300px; /*border: 1px solid blue;*/ }
+.support-doc { /*border: 1px solid yellow;*/ width: 300px; float: left; }
+label.best-number, label.best-email { width: 250px; margin-left: -125px;  }
+label.course-name { width: 450px;  /*text-align: right;*/ }
+label.why-study { width: 750px; display: inline-block; }
+select.course-name { padding: 10px; width: 645px;  }
+input.family-name, input.given-name-1, input.given-name-2, input.best-number, input.best-email, input.study-months {  display: inline-block; margin: 5px 0px;  }
+label.study-months { float: left; margin: 25px 0px; width: 400px; }
+input.study-months { display: inline-block; margin: 15px 0px; width: 40px;  }
+label.preferred-course { float: left; margin: 15px 0px; width: 400px; }
+input.preferred-course { display: inline-block; margin: 5px 0px; width: 140px;   }
+.support { width:400px; height:60px; /*border: 1px solid green;*/ float: left;}
+
+.dob { float: left; margin-top:-12px; }
+input.radio { display: inline; }
+
+input, textarea { font-family: tahoma; font-weight: bold; font-size: 16px; color: blue; }
+
+option { padding: 5px; text-indent: 10px; font-size: 16px; }
+option:nth-child(odd) { background-color: #F5FAFF; font-family: tahoma; font-weight: bold; font-size: 16px; color: blue}
+option:nth-child(even) { background-color: #FCFCFC; font-family: tahoma; font-weight: bold; font-size: 16px; color: blue;} 
+li:nth-child(odd).success { background-color: #F5FAFF; ; }
+li:nth-child(even).success { background-color: #FCFCFC;  }
+#summary { border: 1px solid #000; background-color: #F1F1F1; padding: 25px; border-radius: 5px; }
+ol { padding-left: 10px;}
+
+hr { color: #F1F1F1; }
+
+.hidden { display: none; } // ref vid on youtube for details: https://www.youtube.com/watch?v=r-prr42brhI
+
+
+
+
