@@ -1,0 +1,960 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"preferred",
+				"preferredDay"
+			],
+			[
+				"pref",
+				"preferredDay"
+			],
+			[
+				"cty",
+				"ctype_alpha"
+			],
+			[
+				"$gen",
+				"$gender_f"
+			],
+			[
+				"$gender",
+				"$gender_m"
+			],
+			[
+				"hidden",
+				"hiddeninputs"
+			],
+			[
+				"$tar",
+				"$target_file"
+			],
+			[
+				"$target",
+				"$target_dir"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"suppo",
+				"supporting-docs"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"clea",
+				"clear"
+			],
+			[
+				"clear",
+				"clear-side"
+			],
+			[
+				"give",
+				"given-name-2"
+			],
+			[
+				"i",
+				"inline-grid"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"backgorund-",
+				"background-color"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"study",
+				"study-months"
+			],
+			[
+				"$my",
+				"$myEmail"
+			],
+			[
+				"strip",
+				"stripslashes"
+			],
+			[
+				"htmlspecial",
+				"htmlspecialchars"
+			],
+			[
+				"why",
+				"why-study-at-vu"
+			],
+			[
+				"course",
+				"course-name"
+			],
+			[
+				"html5",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"$arr",
+				"$arrNumbers"
+			],
+			[
+				"$flt",
+				"$fltAverage"
+			],
+			[
+				"$le",
+				"$arrLetters1"
+			],
+			[
+				"$int",
+				"$intTimesTable"
+			],
+			[
+				"$in",
+				"$intNumber2"
+			],
+			[
+				"$me",
+				"$menu_name"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
+				"position",
+				"position"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"mysqli",
+				"mysqli_fetch"
+			],
+			[
+				"my",
+				"mysql_close"
+			],
+			[
+				"mys",
+				"mysql_connect"
+			],
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"bold",
+				"bold"
+			],
+			[
+				"fonr",
+				"font-stretch"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"main",
+				"main-content"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"padding-",
+				"padding-right"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bacground",
+				"background-color"
+			],
+			[
+				"blog-nav",
+				"blog-nav-item"
+			],
+			[
+				"active",
+				"active"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"link",
+				"link	link - stylesheet"
+			],
+			[
+				"backgroud",
+				"background-color"
+			],
+			[
+				"backgor",
+				"background-color"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"$result",
+				"$result_array"
+			],
+			[
+				"delete",
+				"delete_post"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"mysql_",
+				"mysql_connect"
+			],
+			[
+				"names",
+				"names2"
+			],
+			[
+				"get",
+				"getFullName"
+			],
+			[
+				"in",
+				"indexOf"
+			],
+			[
+				"glo",
+				"globalVar"
+			],
+			[
+				"local",
+				"localFunction"
+			],
+			[
+				"global",
+				"globalVar"
+			],
+			[
+				"param",
+				"paramTwo"
+			],
+			[
+				"do",
+				"doSomething"
+			],
+			[
+				"src",
+				"source	<source>"
+			],
+			[
+				"video",
+				"video	<video>"
+			],
+			[
+				"string",
+				"string1"
+			],
+			[
+				"str",
+				"String2"
+			],
+			[
+				"check",
+				"checkPants"
+			],
+			[
+				"optio",
+				"optionsPrice"
+			],
+			[
+				"che",
+				"checkShirt"
+			],
+			[
+				"img",
+				"imgshirt"
+			],
+			[
+				"shi",
+				"shippingPrice"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"the",
+				"theString"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/H/revision-sp1/reminders-week12.txt",
+			"settings":
+			{
+				"buffer_size": 488,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/H/revision-sp1/java-revision-notes-week-12.txt",
+			"settings":
+			{
+				"buffer_size": 2481,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/H/revision-sp1/java-test-notes-week-12.txt",
+			"settings":
+			{
+				"buffer_size": 8673,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/H/revision-sp1/Person.java",
+			"settings":
+			{
+				"buffer_size": 2053,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/H/revision-sp1/java-revision-notes-second-assessment-week-10.txt",
+			"settings":
+			{
+				"buffer_size": 2857,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 160.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"php comment",
+				"Snippet: html5-css-comment"
+			],
+			[
+				"comment",
+				"Snippet: html5-comment"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ccom",
+				"Snippet: html5-css-comment"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 626.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"subl -n",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/H/revision-sp1"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/StarterShareITSiteStep_3-class-changes/Locations.php",
+		"/H/php/StarterShareITSiteStep_4/Locations.php",
+		"/H/revision-sp1/SQL TEST 20.05.2015",
+		"/H/revision-sp1/reminders-week12.txt",
+		"/H/revision-sp1/java-revision-notes-week-12.txt",
+		"/H/revision-sp1/java-second-test-from-memory.txt",
+		"/C/xampp/htdocs/git-hub/php/working-files/pdo-db-insert-record.php",
+		"/C/xampp/htdocs/git-hub/php/working-files/pdo-db-connect.php",
+		"/C/xampp/htdocs/git-hub/php/working-files/pdo-db-query.php",
+		"/C/xampp/htdocs/git-hub/php/working-files/pdo-db-query2.php",
+		"/H/questions-to-ask-sp1-2015.txt",
+		"/C/Users/meta/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/meta/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/git-hub/PHP-VU-SP1/assessments/www.worldpictures.org/report.txt",
+		"/C/xampp/htdocs/git-hub/PHP-VU-SP1/.git/COMMIT_EDITMSG",
+		"/C/xampp/htdocs/git-hub/php/.git/COMMIT_EDITMSG",
+		"/C/xampp/htdocs/git-hub/php/working-files/.git/COMMIT_EDITMSG",
+		"/C/Users/meta/Desktop/GitHubLog.txt",
+		"/C/xampp/htdocs/git-hub/php/assessments/www.worldpictures.org/report.txt",
+		"/C/xampp/htdocs/git-hub/php/assessments/www.worldpictures.org/assessment-start.php",
+		"/H/java-revision-notes-second-assessment-week-10",
+		"/D/VM-webserver-and-system/week-10/alias-and-redirect-steps.txt",
+		"/D/VM-webserver-and-system/apache-notes-2015/www-files/website-notes.txt",
+		"/H/questions-to-ask-sp1-2015",
+		"/C/xampp/htdocs/benny/new-index.php",
+		"/C/xampp/htdocs/benny/index.php",
+		"/C/xampp/htdocs/benny/success.php",
+		"/C/xampp/htdocs/benny/gymStyles.css",
+		"/C/Users/meta/Desktop/Gym Form/index.php",
+		"/C/xampp/htdocs/benny/backup-all-files/validatorV4.php",
+		"/C/xampp/htdocs/benny/backup-all-files/rateYourTeam.php",
+		"/C/xampp/htdocs/benny/backup-all-files/success.php",
+		"/C/xampp/htdocs/benny/backup-working-form-no-css/index.php",
+		"/C/Users/meta/Desktop/New folder (4)/Gym Form/index.php",
+		"/C/xampp/htdocs/benny/sticky-forms.php",
+		"/H/footscray-VUT/to-sort/Chapter5DavidPowers/submitFormExamples/success.php",
+		"/C/xampp/htdocs/benny/cindex.php",
+		"/C/xampp/htdocs/benny/BIndex.php",
+		"/C/xampp/htdocs/benny/validatorV4.php",
+		"/H/footscray-VUT/to-sort/Chapter5DavidPowers/submitFormExamples/rateYourTeam.php",
+		"/C/xampp/htdocs/benny/complex-form-text-fields.php",
+		"/C/xampp/htdocs/php-vu/index.php",
+		"/C/xampp/htdocs/benny/cindex-broken.php",
+		"/C/xampp/htdocs/benny/validatorV3.php",
+		"/C/xampp/htdocs/benny/validatorv2.php",
+		"/C/xampp/htdocs/benny/validator.php",
+		"/H/footscray-VUT/to-sort/Chapter5DavidPowers/submitFormExamples/formPOST3b.php",
+		"/C/xampp/htdocs/benny/ben-gender.php",
+		"/C/xampp/htdocs/benny/ben-textbox.php",
+		"/C/xampp/htdocs/benny/complex-form-radio-buttons.php",
+		"/C/xampp/htdocs/benny/BIndex-backupp.php",
+		"/C/xampp/htdocs/benny/bender.php",
+		"/H/footscray-VUT/dw505-web-connectivity-php/assessments/complex-form-submitted-2015-04-22/complex-form-student-id-s4532350/index.php",
+		"/C/xampp/htdocs/git/git-notes-2015-04-22.txt",
+		"/C/xampp/htdocs/git/git-cmds-2015-04-22.txt",
+		"/C/xampp/htdocs/git-hub/church-website/requirements.txt",
+		"/C/xampp/htdocs/git-hub/church-website",
+		"/C/xampp/htdocs/git-hub/www.aberfeldieanglican.org.au",
+		"/C/xampp/htdocs/website-template-april-2015/index.php",
+		"/H/footscray-VUT/dw503-apache-webserver/class-notes/apache-instructions-by-dan-2015.04.21.txt",
+		"/C/xampp/htdocs/git-hub/git-cmds-2015-04-22.txt",
+		"/C/Users/meta/Desktop/first-file.php",
+		"/C/Users/meta/Desktop/project/index.php",
+		"/H/footscray-VUT/php/week-5/library research.txt",
+		"/H/footscray-VUT/master-reading-list.txt",
+		"/H/footscray-VUT/master-reading-list.php",
+		"/H/footscray-VUT/java.code.txt",
+		"/H/footscray-VUT/XAMPP14-IMPORTANT.txt",
+		"/H/footscray-VUT/2-do-list-IMPORTANT-week1.txt",
+		"/C/Users/meta/Desktop/complex-form/email-ian.txt",
+		"/C/xampp/htdocs/git-hub/php/assessments/complex-form/complex-form-student-id-s4532350/index.php",
+		"/C/Users/meta/Documents/github-cmdline-functions",
+		"/C/Users/meta/Desktop/dw505-a1-s4532350/email-ian.txt",
+		"/H/footscray-VUT/itc-prac-b/candybox.txt",
+		"/H/footscray-VUT/apache/backup-d-stachlewski/alias-and-redirect-steps (2).txt",
+		"/H/footscray-VUT/apache/backup-d-stachlewski/alias-and-redirect-steps.txt",
+		"/C/xampp/htdocs/github/PHP/test-file.txt",
+		"/C/xampp/htdocs/github/PHP/dw505-a1-s4532350",
+		"/C/xampp/htdocs/php-vu/upload.php",
+		"/C/xampp/htdocs/php-vu/file-upload-code.php",
+		"/C/xampp/htdocs/php-vu/code.php",
+		"/C/xampp/htdocs/php-vu/text-fields.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/backup/index.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/index.php",
+		"/C/xampp/htdocs/php-vu/css/my-style.css",
+		"/C/xampp/htdocs/php-vu-backup/php-vu/my-style.js",
+		"/C/xampp/htdocs/php-vu-backup/php-vu/index.php",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/web-data-conn/validatorV3.php",
+		"/C/xampp/htdocs/web-data-conn/validatorv2.php",
+		"/C/xampp/htdocs/web-data-conn/validator.php",
+		"/C/xampp/htdocs/php-vu/form/index.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/php-assessment-1/index.php",
+		"/C/xampp/htdocs/web-data-conn/try-again/success1.php",
+		"/C/xampp/htdocs/web-data-conn/a1-backup/backup/success.php",
+		"/C/xampp/htdocs/web-data-conn/try-again/index.php",
+		"/C/xampp/htdocs/php-academy/contact-form/css/main.css",
+		"/C/xampp/htdocs/php-academy/contact-form/index.php",
+		"/C/xampp/htdocs/php-academy/contact-form/contact.php",
+		"/C/xampp/htdocs/web-data-conn/try-again/css/my-styles.css",
+		"/C/xampp/htdocs/web-data-conn/try-again/a1-amalgum.php",
+		"/C/xampp/htdocs/web-data-conn/a1-backup/backup/a1-amalgum.php",
+		"/C/xampp/htdocs/fracked/index.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/index - Copy.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1-broken/inc/fr-samuel-dow.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1-bootstrapped/inc/welcome.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1-bootstrapped/index.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/php-assessment-1/css/my-styles.css",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/php-assessment-1/inc/register.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/php-assessment-1/inc/student-interest.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/php-assessment-1/inc/header.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/backup/a1-amalgum.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/final-code.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/php-assessment-1/inc/footer.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/php-assessment-1/inc/top-navbar.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/php-assessment-1/inc/footer-alt.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/php-assessment-1/css/my-styles-1.css",
+		"/C/xampp/htdocs/holy-bootstrap/index.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/success.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/backup/rad-but.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/css/my-styles.css",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/inc/footer.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/inc/top-navbar.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/inc/welcome.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/inc/header.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/backup/New folder/a1-amalgum.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/backup/New folder/index.php",
+		"/C/xampp/htdocs/web-data-conn/assessment-1/css/main.css"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"word",
+			"word wr",
+			"br",
+			"preferredDay",
+			"gender",
+			"Saturday",
+			"Friday",
+			"Thursday",
+			"Wednesday",
+			"Tuesday",
+			"firstName",
+			"strstr",
+			"/>				",
+			"col",
+			";;",
+			"/>\n",
+			"NAME2",
+			"prior",
+			"learning",
+			"prior-learning",
+			"/>\n",
+			"IT",
+			"ent_no",
+			"htmlspecial",
+			"POST",
+			"EEEEEE",
+			"nav",
+			"Search",
+			">\n",
+			"Date",
+			"Header",
+			"text",
+			"pre",
+			"feautres",
+			"warning",
+			"false",
+			"left",
+			"medium",
+			"top left",
+			"large",
+			"medium",
+			"Password",
+			"password",
+			"l",
+			"StoreHours.class.php",
+			"StoreHours",
+			"array",
+			"brush",
+			"428BCA",
+			";\n",
+			"    <!--",
+			"action",
+			"actio",
+			"foo",
+			"alert(string1);\nalert(string2);\n",
+			"F8F8FA"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/H/revision-sp1/reminders-week12.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 488,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								212,
+								0
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "04ca42a8",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Monokai.tmTheme",
+							"spell_check": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/H/revision-sp1/java-revision-notes-week-12.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "469eac48",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Monokai.tmTheme",
+							"spell_check": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/H/revision-sp1/java-test-notes-week-12.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8673,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								334,
+								334
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "90edc0b7",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Monokai.tmTheme",
+							"spell_check": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/H/revision-sp1/Person.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2053,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2051,
+								2051
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "83b72a91",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Monokai.tmTheme",
+							"spell_check": false,
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2197.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/H/revision-sp1/java-revision-notes-second-assessment-week-10.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2857,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "7a685eb2",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Monokai.tmTheme",
+							"spell_check": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "revision-sp1.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
